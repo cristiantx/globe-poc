@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/globe-poc/static/css/main.7c485e23.chunk.css",
+    "main.js": "/globe-poc/static/js/main.deb8317c.chunk.js",
+    "main.js.map": "/globe-poc/static/js/main.deb8317c.chunk.js.map",
+    "runtime-main.js": "/globe-poc/static/js/runtime-main.3e68c61d.js",
+    "runtime-main.js.map": "/globe-poc/static/js/runtime-main.3e68c61d.js.map",
+    "static/js/2.78894bd5.chunk.js": "/globe-poc/static/js/2.78894bd5.chunk.js",
+    "static/js/2.78894bd5.chunk.js.map": "/globe-poc/static/js/2.78894bd5.chunk.js.map",
+    "index.html": "/globe-poc/index.html",
+    "static/css/main.7c485e23.chunk.css.map": "/globe-poc/static/css/main.7c485e23.chunk.css.map",
+    "static/js/2.78894bd5.chunk.js.LICENSE.txt": "/globe-poc/static/js/2.78894bd5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/globe-poc/static/media/trees.8ed1106c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e68c61d.js",
+    "static/js/2.78894bd5.chunk.js",
+    "static/css/main.7c485e23.chunk.css",
+    "static/js/main.deb8317c.chunk.js"
+  ]
+}
